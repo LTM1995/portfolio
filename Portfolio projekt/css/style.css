@@ -56,6 +56,11 @@ h1{
     font-size: 40px;
 }
 
+img {
+    width:300px;
+    height:250px;
+}   
+
 #flow1 {
     text-align: center;
     font-size: 25px;
